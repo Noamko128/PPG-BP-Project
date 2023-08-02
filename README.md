@@ -19,4 +19,4 @@ Based on the results of the study, an SVM regression model yielded the best favo
 # Discussions
 The developed algorithm shows potential for a BP prediction system using a single PPG sensor. Further research is needed for additional waveform features. Sophisticated methods for BP categories and continuous prediction via deep learning should be explored. Evaluating on an extended dataset with over 85 patients could meet AAMI standards. PPG-based devices may greatly impact patient monitoring, especially for those at risk of cardiovascular diseases, requiring continuous monitoring.
 
-***
+*This project is my final project for my Bachelor's degree in Digital Medical Technologies. 
